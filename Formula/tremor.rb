@@ -3,9 +3,9 @@ class Tremor < Formula
   homepage "https://github.com/toolittlecakes/tremor"
   # Built straight from the tagged source via git (no archive checksum to drift).
   url "https://github.com/toolittlecakes/tremor.git",
-      tag:      "v0.2.0",
-      revision: "7b1bb6f65d3d2ba28a133dbc4d1dd8efbdf21d15"
-  version "0.2.0"
+      tag:      "v0.3.0",
+      revision: "a58f5141959b288dc5054c578ac5f978df38b9c6"
+  version "0.3.0"
   license "MIT"
 
   depends_on :macos
